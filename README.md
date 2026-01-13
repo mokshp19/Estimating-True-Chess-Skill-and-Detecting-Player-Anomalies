@@ -1,4 +1,4 @@
-# Estimating-True-Chess-Skill-and-Detecting-Player-Anomalies
+# [Estimating-True-Chess-Skill-and-Detecting-Player-Anomalies](https://github.com/Jaathavan/Estimating-True-Chess-Skill-and-Detecting-Player-Anomalies)
 Python project that analyzes chess games to estimate player rating and flag unusual play patterns that may indicate cheating
 
 A comprehensive machine learning system for analyzing chess games to estimate true player skill (ELO rating) and detect anomalies such as cheating and smurfing using machine learning and hybrid anomaly detection.
